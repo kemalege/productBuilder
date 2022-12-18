@@ -8,3 +8,4 @@ const OnlyText = (event) => {
 };
 
 export default OnlyText;
+

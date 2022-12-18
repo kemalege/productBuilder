@@ -121,7 +121,6 @@ function Content({
               />
             </div>
           )}
-
           <div className="readySize">
             <p>Hazır Ebat</p>
             <ToggleSwitch
